@@ -1,7 +1,7 @@
 {
   "name": "GDrive-Uploader-Bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
+  "repository": "https://github.com/sivaezhumalai2002",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
@@ -13,18 +13,18 @@
       "description": "Get it from @BotFather"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "5123139, Get it from https://my.telegram.org/apps"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "bdce687b323d2b4a5229e97c2e3e67f3, Get it from https://my.telegram.org/apps"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "851259774"
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://viperadnan-git.github.io"
+      "value": "https://t.me/probotssupports"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
@@ -32,11 +32,11 @@
     },
     "G_DRIVE_CLIENT_ID": {
       "description": "Google Drive Client ID from Google Cloud Platform",
-      "value": "202264815644.apps.googleusercontent.com"
+      "value": "600877053681-3ubhd7j6rh242l2ek001e9jl844078v2.apps.googleusercontent.com"
     },
     "G_DRIVE_CLIENT_SECRET": {
       "description": "Google Drive Client Secret from Google Cloud Platform",
-      "value": "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
+      "value": "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"
     }
   },
    "addons": [{
